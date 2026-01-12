@@ -57,5 +57,5 @@ print(weather_info)
 notification.notify(
     title="Weather Update 🌸",
     message=weather_info,
-    timeout=10 #this is the only change I make
+    timeout=10 
 )
