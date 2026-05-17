@@ -15,6 +15,9 @@ weather_whispers/
 ├── script.js           # Frontend logic — city list, API calls, rendering
 └── requirements.txt    # Python dependencies
 ```
+## UI:
+<img width="953" height="501" alt="image" src="https://github.com/user-attachments/assets/6b1b5ca9-300f-48be-bd47-27af7e196d20" />
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/c1acd255-c2d3-465f-82a9-612950dff88e" />
 
 ---
 
@@ -244,9 +247,5 @@ Using `notification.notify()` to send a real operating-system-level popup from a
 - Move the API key to a `.env` file using the `python-dotenv` library for better security
 
 ---
-
-## UI:
-<img width="953" height="501" alt="image" src="https://github.com/user-attachments/assets/6b1b5ca9-300f-48be-bd47-27af7e196d20" />
-<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/c1acd255-c2d3-465f-82a9-612950dff88e" />
 
 
